@@ -1,21 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Waste Management &amp; Collection Dashboard</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
-    h1, h2 { color: #2c3e50; }
-    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    th { background-color: #f2f2f2; }
-    ul { list-style-type: disc; margin-left: 20px; }
-    pre { background-color: #f7f7f7; padding: 10px; border-radius: 4px; overflow-x: auto; }
-    code { font-family: Consolas, monospace; }
-  </style>
-</head>
-<body>
   <h1>Waste Management &amp; Collection Dashboard</h1>
   <p>
     This project demonstrates how local governments can use machine learning and geospatial visualisation to optimise municipal waste collection.
@@ -101,8 +84,3 @@
   <h2>License and Acknowledgements</h2>
   <p>This project is provided for educational purposes and may be adapted for real‑world use. The dataset is synthetic and does not reflect actual
     waste management data. You may modify and redistribute the code under your preferred licence.</p>
-
-  <h2>Contact</h2>
-  <p>For questions or suggestions regarding this dashboard, feel free to open an issue or contribute to the repository.</p>
-</body>
-</html>
